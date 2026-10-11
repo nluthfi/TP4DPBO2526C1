@@ -9,8 +9,8 @@ Saya Luthfi Naufal Alfareza dengan NIM 2511437 mengerjakan Tugas Praktikum 4 dal
 ```
 TP4DPBO2526C1/
 ├── Dokumentasi
-│   ├── record_crud.gif
-│   └── record_crud.mp4
+|   └── record_crud.gif
+│    
 ├── PeopleData
 │   ├── src
 │   │   ├── PeopleMenu.form
@@ -59,8 +59,6 @@ Setelah program dijalankan, jendela aplikasi menampilkan formulir input serta ta
 
 ---
 
-## Dokumentasi Eksekusi Program (CRUD)
+## Dokumentasi
 
 ![Demonstrasi CRUD](Dokumentasi/record_crud.gif)
-
-> Rekaman video: [`Dokumentasi/record_crud.mp4`](Dokumentasi/record_crud.mp4)
